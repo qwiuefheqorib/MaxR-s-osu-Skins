@@ -1,2 +1,2 @@
 # gdcunblocked
-School project for a flash website that bypasses ContentKeeper blocks.
+School project for a flash website that bypasses ContentKeeper
